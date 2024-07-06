@@ -3,7 +3,7 @@ public class FindLargeWord {
 
     public static void main(String[] args) {
         String sentence = "Hey, this is my accenture interview";
-        System.out.println("Longest word in the sentence is : " + findLongestWord(sentence));
+        System.out.println("Longest word in the sentence is: " + findLongestWord(sentence));
     }
     
     public static String findLongestWord(String sentence) {
